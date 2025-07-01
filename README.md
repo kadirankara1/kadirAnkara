@@ -24,11 +24,6 @@ Merhaba! Ben Kadir, teknolojiye tutkuyla bağlı bir geliştiriciyim. Yazılım 
 ## 📈 GitHub İstatistiklerim
 ![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirankara&show_icons=true&theme=radical)
 
-## 💬 Bana Ulaşın
-- 💼 [LinkedIn](https://linkedin.com/in/kadirankara)
-- 📧 kadir@example.com *(gerçek e-posta ile değiştir)*
-- 🌍 [Web Sitem](https://kadirankara.dev) *(isteğe bağlı)*
-
 ---
 
 > “Sürekli öğren, sürekli öğret, sürekli üret.”
